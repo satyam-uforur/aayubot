@@ -1,4 +1,6 @@
+
 {
+  "start": "node server.js",
   "name": "ayubot",
   "private": true,
   "version": "0.0.0",
