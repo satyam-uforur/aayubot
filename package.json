@@ -1,15 +1,12 @@
-
 {
-  "start": "node server.js",
   "name": "ayubot",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    
     "start": "node server.js",
-    "dev": "node server.js && vite"
-
+    "dev": "node server.js && vite dev",
+    "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "server:dev": "node server.js"
