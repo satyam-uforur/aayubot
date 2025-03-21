@@ -6,8 +6,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
+    
+  "start": "node server.js",
+  "dev": "node server.js && vite"
+
     "lint": "eslint .",
     "preview": "vite preview",
     "server:dev": "node server.js"
