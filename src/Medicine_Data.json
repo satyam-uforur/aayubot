@@ -1,0 +1,38 @@
+ [{
+    "Medicine Name": "Paracetamol",
+    "Brand Name": "Crocin",
+    "Composition": "Acetaminophen 500mg",
+    "Uses": "Pain relief, fever reduction",
+    "Side_effects": "Rare: allergic reactions, liver problems with high doses",
+    "Image URL": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&q=80&w=200",
+    "Manufacturer": "Generic Pharma Inc.",
+    "Excellent Review %": 85,
+    "Average Review %": 12,
+    "Poor Review %": 3,
+    "Substitutes": [
+      {
+        "Medicine Name": "Dolo",
+        "Manufacturer": "Micro Labs Ltd",
+        "Price": "₹20"
+      },
+      {
+        "Medicine Name": "Fepanil",
+        "Manufacturer": "Zee Laboratories",
+        "Price": "₹15"
+      }
+    ],
+    "Alternatives": [
+      {
+        "Medicine Name": "Ibuprofen",
+        "Composition": "Ibuprofen 400mg",
+        "Uses": "Pain relief, fever reduction",
+        "Price": "₹25"
+      },
+      {
+        "Medicine Name": "Aspirin",
+        "Composition": "Acetylsalicylic acid 300mg",
+        "Uses": "Pain relief, fever reduction",
+        "Price": "₹30"
+      }
+    ]
+  }]
