@@ -99,7 +99,7 @@ app.get('/api/medicines/search', async (req, res) => {
   }
 });
 
-const PORT = 4000;
+const PORT = 5000;
 
 connectToDatabase().then(() => {
   app.listen(PORT, () => {
